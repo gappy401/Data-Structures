@@ -158,6 +158,7 @@ public class Single_List
         return list;    
 
     }
+    
 
     public static void main(String args[]) {
       //  Scanner s = new Scanner(System.in);
@@ -170,8 +171,6 @@ public class Single_List
         ins(l2, 30);
         ins(l2, 20);
         ins(l2, 20);
-        del(l2, 10);
-        reveList(l2);
         
         int u=len(l2);
         printL(l2);
